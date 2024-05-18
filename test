@@ -1,2 +1,7 @@
-watrust.com
-cats.com
+{
+  "approvedSites": [
+    "khq.com",
+    "watrust.com",
+    "microsoft.com"
+  ]
+}
